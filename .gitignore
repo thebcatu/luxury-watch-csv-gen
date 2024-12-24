@@ -1,0 +1,13 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore .env files
+.env
+
+# Ignore other common files or directories you want to exclude
+.DS_Store
+*.log
+*.bak
+*.swp
+*.idea
+*.vscode
